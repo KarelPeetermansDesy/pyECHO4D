@@ -120,5 +120,3 @@ plt.tight_layout()
 
 # Show the plot
 plt.show()
-# Show the plot
-plt.show()
