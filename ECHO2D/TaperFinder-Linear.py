@@ -1,4 +1,3 @@
-from geom import *
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -7,17 +6,13 @@ import os
 import sys
 from scipy.constants import c
 
-from ECHO2D_Functions import * 
 
 from scipy.special import jv, yv
-import cmath
 from scipy import optimize as opt
-import time
 from WaveguideFunctions import *
 
 import matplotlib.pyplot as plt
 import numpy as np
-from Plotting import *
 from scipy.optimize import brentq
 
 # Define the function and parameters
